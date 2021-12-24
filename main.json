@@ -1,7 +1,8 @@
 {
   "EasyBackup": {
-    "version": {
-      "lastest": "v1.0.0"
+    "versions": {
+      "lastest": 2.0.0,
+      "v1.0.0": "first start"
     }
   }
 }
